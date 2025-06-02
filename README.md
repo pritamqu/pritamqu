@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Pritam, please check my website for more information www.pritamsarkar.com
-- 👀 I’m interested in machine learning 🧠, photography 📷, and film making 🎞️ .
-- 💞️ I’m always open to coffee and discussing research.
+- 👋 Hi, I’m Pritam!
+- 🎞️ I interested in multimodal learning from videos. Please check my website for more information www.pritamsarkar.com.
+- ☕ I’m always open to coffee and discussing research.
+- 📷 Other than training neural networks, I’m interested photography and film making.
 - 📫 reach me: pritam[dot]sarkar[at]queensu[dot]ca.
 
 **A selected list of my open-source contributions:**
