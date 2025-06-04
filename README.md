@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pritam!
-- 🎞️ I interested in multimodal learning from videos. Please check my website for more information www.pritamsarkar.com.
+- 🎞️ I'm interested in multimodal learning from videos. Please check my website for more information www.pritamsarkar.com.
 - ☕ I’m always open to coffee and discussing research.
 - 📷 Other than training neural networks, I’m interested photography and film making.
 - 📫 reach me: pritam[dot]sarkar[at]queensu[dot]ca.
